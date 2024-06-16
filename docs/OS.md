@@ -130,6 +130,6 @@ https://www.bilibili.com/video/BV1CP4y1k7i8/?spm_id_from=333.337.search-card.all
 
 ## Key Points
 
-### Process and thread management, related to high concurrency programming
+Process and thread management, related to high concurrency programming
 
-### Memory management is also key
+Memory management is also key
